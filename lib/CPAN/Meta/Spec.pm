@@ -1086,7 +1086,7 @@ Several others have contributed patches over the years.  The full list
 of contributors in the repository history currently includes:
 
   2shortplanks <mark@twoshortplanks.com>
-  Christopher J. Madsen <github@cjmweb.net>
+  Christopher J. Madsen <perl@cjmweb.net>
   Damyan Ivanov <dmn@debian.org>
   David Golden <dagolden@cpan.org>
   Eric Wilhelm <ewilhelm@cpan.org>
